@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   clip-rule="evenodd"
+   fill-rule="evenodd"
+   stroke-linejoin="round"
+   stroke-miterlimit="2"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="application-image-tiff.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs23">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient957"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-49.619,49.619,0,250.77,51.088)"
+       x2="1" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview21"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="10.671875"
+     inkscape:cx="34.623719"
+     inkscape:cy="32.281113"
+     inkscape:window-width="945"
+     inkscape:window-height="1026"
+     inkscape:window-x="965"
+     inkscape:window-y="44"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19" />
+  <linearGradient
+     id="a"
+     x2="1"
+     gradientTransform="matrix(0,-49.619,49.619,0,250.77,51.088)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       stop-color="#791f57"
+       offset="0"
+       id="stop2" />
+    <stop
+       stop-color="#b65174"
+       offset="1"
+       id="stop4" />
+  </linearGradient>
+  <path
+     id="path7"
+     style="fill:url(#linearGradient957)"
+     d="M 17.617188 1.46875 C 15.597188 1.46875 13.659469 2.2712188 12.230469 3.6992188 C 10.802469 5.1282186 10 7.0678906 10 9.0878906 L 10 13.863281 L 10 54.382812 C 10 56.402814 10.802469 58.340531 12.230469 59.769531 C 13.659469 61.197531 15.597187 62 17.617188 62 L 46.382812 62 C 48.402814 62 50.340531 61.197531 51.769531 59.769531 C 53.197531 58.340531 54 56.402814 54 54.382812 L 54 13.863281 L 54 9.0878906 C 54 7.0678906 53.197531 5.1282186 51.769531 3.6992188 C 50.340531 2.2712188 48.402813 1.46875 46.382812 1.46875 L 36.371094 1.46875 L 27.628906 1.46875 L 17.617188 1.46875 z " />
+  <path
+     id="path914"
+     style="clip-rule:evenodd;fill:#650733;fill-opacity:1;fill-rule:evenodd;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:2"
+     d="m 9.999999,50.982422 v 3.40039 c 0,2.020002 0.80247,3.957719 2.23047,5.386719 1.429,1.428 3.366716,2.230469 5.386718,2.230469 h 28.765625 c 2.020002,0 3.957718,-0.802469 5.386719,-2.230469 C 53.19753,58.340531 54,56.402814 54,54.382812 v -3.40039 z" />
+  <g
+     fill-rule="nonzero"
+     id="g17">
+    <path
+       d="m23.957 19c-.53 0-.957.465-.957 1.043v15.912c0 .579.427 1.045.957 1.045h16.086c.53 0 .957-.466.957-1.045v-15.912c0-.578-.427-1.043-.957-1.043zm10.182 6.432 3.861 5.136h-12l3-3.849 2.139 2.574z"
+       fill="#650733"
+       id="path9" />
+    <path
+       d="m28.747 59.605c-.421 0-.743-.112-.967-.336-.219-.224-.328-.541-.328-.951v-2.106h-.705v-.688h.705v-1.23h.754v1.23h.983v.688h-.983v2.049c0 .437.18.656.541.656.136 0 .251-.022.344-.066l.262.647c-.164.071-.366.107-.606.107z"
+       fill="#fff"
+       id="path11" />
+    <path
+       d="m30.774 54.516c-.104.103-.229.155-.377.155-.147 0-.273-.052-.377-.155-.104-.104-.156-.23-.156-.377 0-.148.052-.274.156-.377.104-.104.23-.156.377-.156.148 0 .273.052.377.156.104.103.156.229.156.377 0 .147-.052.273-.156.377zm0 5.023h-.754v-4.015h.754z"
+       fill="#fff"
+       id="path13" />
+    <path
+       d="m36.238 53.639c.24 0 .443.035.606.106l-.262.648c-.087-.044-.202-.066-.344-.066-.197 0-.358.06-.484.18-.125.115-.188.285-.188.509v.508h1.049v.688h-1.049v3.327h-.754v-3.327h-1.803v3.327h-.754v-3.327h-.754v-.688h.754v-.533c0-.41.131-.738.393-.984.263-.245.607-.368 1.033-.368.24 0 .443.035.606.106l-.262.648c-.087-.044-.202-.066-.344-.066-.197 0-.358.06-.484.18-.125.115-.188.285-.188.509v.508h1.803v-.533c0-.41.131-.738.393-.984.263-.245.607-.368 1.033-.368z"
+       fill="#fff"
+       id="path15" />
+  </g>
+</svg>
