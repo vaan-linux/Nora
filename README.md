@@ -1,6 +1,6 @@
 # NORA
 
-**Nora** is an SVG icon theme for GNU/Linux operating systems forked from Kora, replacing/modifying a few icons, especially mimetype icons and some application icons. The differences can be clearly seen in the preview.
+**Nora** is an SVG icon theme for GNU/Linux operating systems forked from **Kora**, replacing/modifying a few icons, especially mimetype icons and some application icons. The differences can be clearly seen in the preview.
 
 Unlike Kora, which has many versions, Nora has only one version for now though different versions might be developed in the future.
 
