@@ -13,7 +13,7 @@ Clone this repository on your system
 and copy ***Nora*** directory to one of the following directorys:
 
 * `/usr/share/icons/` - icons available system-wide
-* `$HOME/.local/share/icons/` - icons only available to local user
+* `$HOME/.icons/` - icons only available to local user
 
 ## Preview
 
