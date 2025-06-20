@@ -1,36 +1,19 @@
-# KORA
+# NORA
 
-**Kora** is an SVG icon theme for GNU/Linux operating systems.
+**Nora** is an SVG icon theme for GNU/Linux operating systems forked from Kora, replacing/modifying a few icons, especially mimetype icons and some application icons. The differences can be clearly seen in the preview.
 
-To make them display properly, you may need to update the icon cache. A script is included.
-
-Different versions available:
-* ***kora*** - for dark themes with dark panel
-* ***kora-light*** - for light themes with dark panel (depends on Kora)
-* ***kora-light-panel*** - for light themes with light panel (depends on Kora and Kora-light)
-* ***kora-pgrey*** - theme with grey folder colors (depends on Kora)
-
+Unlike Kora, which has many versions, Nora has only one version for now — though different versions might be developed in the future.
 
 ## Installation
 
 Clone this repository on your system
 
-    git clone https://github.com/bikass/kora.git
+    git clone https://github.com/vaan-linux/Nora.git
 
-and copy ***kora***, ***kora-light***, ***kora-light-panel*** and ***kora-pgrey*** subfolders to one of the following folders:
+and copy ***nora*** directory to one of the following directorys:
 
 * `/usr/share/icons/` - icons available system-wide
 * `$HOME/.local/share/icons/` - icons only available to local user
-
-
-### Specific Linux distributions
-
-* **Arch**: [stable](https://aur.archlinux.org/packages/kora-icon-theme/)
-* **Fedora**: [repository](https://copr.fedorainfracloud.org/coprs/hazel-bunny/ricing/package/kora-icon-theme)
-* **openSuse**: [repository](https://build.opensuse.org/package/show/home:guinuxbr/kora-icon-theme)
-* **Solus**: sudo eopkg it korla-icon-theme
-
-
 
 ## Preview
 
